@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "239023915742",
+    "firebase_url": "https://biziedge-b9a84-default-rtdb.firebaseio.com",
+    "project_id": "biziedge-b9a84",
+    "storage_bucket": "biziedge-b9a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239023915742:android:5cdf82d03ba087ea8cf84f",
+        "android_client_info": {
+          "package_name": "com.yoctotta.biziedge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239023915742-rrci7li1s67bhamla5emu6lou8j1nrhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uBww0il9nkbTxq-7sRzobj8d6oDHA4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239023915742-rrci7li1s67bhamla5emu6lou8j1nrhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239023915742:android:60a642f9ca0afc058cf84f",
+        "android_client_info": {
+          "package_name": "com.yoctotta.biziedgeecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239023915742-rrci7li1s67bhamla5emu6lou8j1nrhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uBww0il9nkbTxq-7sRzobj8d6oDHA4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239023915742-rrci7li1s67bhamla5emu6lou8j1nrhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239023915742:android:16773a606a05c2918cf84f",
+        "android_client_info": {
+          "package_name": "com.yoctotta.biziedgeui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239023915742-rrci7li1s67bhamla5emu6lou8j1nrhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uBww0il9nkbTxq-7sRzobj8d6oDHA4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239023915742-rrci7li1s67bhamla5emu6lou8j1nrhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

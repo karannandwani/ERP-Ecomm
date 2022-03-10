@@ -1,0 +1,8 @@
+.idea
+client/dist
+**/node_modules
+node_modules
+/src/uploads
+npm-debug.log
+config
+.nuxt

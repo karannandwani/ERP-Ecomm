@@ -1,0 +1,27 @@
+const resources = Object.freeze([
+  "Category",
+  "Manufacturer",
+  "Vehicle",
+  "Beat",
+  "Quantity Norm",
+  "Order",
+  "Order Status",
+  "Pricelist Group",
+  "Brand",
+  "Product",
+  "Facility",
+  "Return",
+  "Role",
+  "Supplier",
+  "Menu Role Map",
+  "Lead",
+  "Tax",
+  "Country",
+  "State",
+  "Coupon",
+  "Scheme",
+  "Order Feedbacks",
+  "Landing Page",
+]);
+
+module.exports = resources;

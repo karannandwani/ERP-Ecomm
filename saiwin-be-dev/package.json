@@ -1,0 +1,43 @@
+{
+  "name": "saiwin-be",
+  "version": "1.0.0",
+  "description": "SaiWin application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "yoctotta.com",
+  "license": "ISC",
+  "dependencies": {
+    "@casl/ability": "^4.1.5",
+    "@casl/mongoose": "^3.0.3",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "bwip-js": "^2.1.1",
+    "cors": "^2.8.5",
+    "expo-server-sdk": "^3.6.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.9.0",
+    "html-pdf": "^2.2.0",
+    "joi": "^17.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.9.25",
+    "morgan": "^1.10.0",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.10",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "razorpay": "^2.0.6",
+    "rxjs": "^6.6.3",
+    "sharp": "^0.25.4",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "express-swagger-generator": "^1.1.17",
+    "nodemon": "^2.0.7"
+  }
+}
